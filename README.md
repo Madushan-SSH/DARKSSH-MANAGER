@@ -179,7 +179,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sb
 ```
 
 
-# 🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥
+# 🔥♨️MaDuShAn-SSH♨️🔥
 
 -------------------------------------------------------------------------------
 
@@ -240,7 +240,7 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 
 # 🏃‍contact me
 
-3. [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) 
+3. [🔥♨️MaDuShAn-SSH♨️🔥](https://t.me/sibatrow) 
 
 ```
 * NO MINING!
@@ -251,7 +251,7 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 ```
 
 ```
-☆ [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) ☆
+☆ [🔥♨️MaDuShAn-SSH♨️🔥](https://t.me/sibatrow) ☆
 ```
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
