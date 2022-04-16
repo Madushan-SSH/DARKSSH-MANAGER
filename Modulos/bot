@@ -1,11 +1,11 @@
 #!/bin/bash
 #===================================================
-#   SCRIPT: BOT DARKSSH MANAGER
+#   SCRIPT: BOT MADUSHANSSH MANAGER
 #   DATA ATT: 24 de Jan 2021
-#   DESENVOLVIDO POR: CRAZY_VPN
+#   DESENVOLVIDO POR: MADUSHAN_VPN
 #   API SHELLBOT: SHAMAN
-#   CONTATO TELEGRAM: http://t.me/crazy_vpn
-#   CANAL TELEGRAM: http://t.me/darkssh
+#   CONTATO TELEGRAM: http://t.me/MadushanMalima
+#   CANAL TELEGRAM: http://t.me/MadushanMalima
 #===================================================
 [[ ! -d /etc/DARKssh ]] && exit 0
 [[ ! -d /etc/bot ]] && exit 0
