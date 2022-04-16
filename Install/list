@@ -1,10 +1,10 @@
 #!/bin/bash
 #====================================================
-#	SCRIPT: CONEXAO DARKSSH MANAGER
+#	SCRIPT: CONEXAO MADUSHANSSH MANAGER
 #   DATA ATT:   28 de Set 2020
-#	DESENVOLVIDO POR:	CRAZY_VPN
-#	CONTATO TELEGRAM:	http://t.me/crazy_vpn
-#	CANAL TELEGRAM:	http://t.me/darkssh
+#	DESENVOLVIDO POR:	MADUSHAN_VPN
+#	CONTATO TELEGRAM:	http://t.me/MadushanMalima
+#	CANAL TELEGRAM:	http://t.me/MadushanMalima
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Install/versao)
 IP=$(wget -qO- darkssh.xyz/meuip.php)
