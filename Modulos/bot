@@ -24,7 +24,7 @@ fun_menu() {
         local env_msg
 	env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
+        env_msg+="<b>----------♻️ MADUSHANSSH MANAGER ♻️----------</b>\n"
 	env_msg+="<b>  # 🔥♨️MaDuShAn-SSH♨️🔥      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
@@ -44,7 +44,7 @@ fun_menu() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
+        env_msg+="<b>----------♻️ MADUSHANSSH MANAGER ♻️----------</b>\n"
 	env_msg+="<b>  # 🔥♨️MaDuShAn-SSH♨️🔥      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
@@ -87,7 +87,7 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
+        env_msg+="<b>----------♻️ MADUSHANSSH MANAGER ♻️----------</b>\n"
 	env_msg+="<b>  # 🔥♨️MaDuShAn-SSH♨️🔥      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
@@ -127,7 +127,7 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
+        env_msg+="<b>----------♻️ MADUSHANSSH MANAGER ♻️----------</b>\n"
 	env_msg+="<b>  # 🔥♨️MaDuShAn-SSH♨️🔥      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
@@ -157,7 +157,7 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
+        env_msg+="<b>----------♻️ MADUSHANSSH MANAGER ♻️----------</b>\n"
 	env_msg+="<b>  # 🔥♨️MaDuShAn-SSH♨️🔥      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
         env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
