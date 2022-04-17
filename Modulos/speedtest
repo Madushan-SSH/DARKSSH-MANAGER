@@ -3,7 +3,7 @@ sleep 2
 clear
 echo ""
 echo "--------------------------------------------------------------------"
-speedtest-cli --share
+chmod +x /etc/DARKSSH-MANAGER/speedtest-cli
 echo ""
 
 echo "--------------------------------------------------------------------"
