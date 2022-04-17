@@ -1,15 +1,11 @@
 
-# 📌MADUSHANSSH new update v5.0.0 now
+📌MADUSHANSSH new update v5.0.0 now
 
 * UPDATE 06/04/2022
 
-* DarkSSH Panel+ 🌀 DarkSSH WEB🌀
+* MADUSHAN-SSH Telegram Userbot
 
-* Darkssh + windows app
-
-*  Dakssh Telegram Userbot
-
-### Deploy Bot on Heroku🏃‍♂
+#Deploy Bot on Heroku🏃‍♂
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Madushan-SSH/DARKSSH-MANAGER)
 
