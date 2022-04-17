@@ -13,7 +13,7 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Madushan-SSH/DARKSSH-MANAGER)
 
-🌶 You-Tech API Based Web 
+🌶 MADUSHAN-SSH API Based Web 
 🍪 java, Html, css, Python
 🔥 Fast response
 🤗 Friendly interface
@@ -30,10 +30,9 @@
 
  [-] ═───────◇───────═
 
-[🌀 Darkssh 🌀] (https://t.me/Darks_SSH) 
+[🌀 MADUSHAN-SSH 🌀] (https://t.me/MadushanMalima) 
 
-[🧿YouTech🧿](https://t.me/YouTech_VPN_HUB)
- 
+
  </details>
  
 <details>
@@ -48,13 +47,11 @@ Download
 
 [-] ═───────◇───────═
 
-📦 Dark-Script 🚀
+📦 MADUSHAN-SSH-Script 🚀
 
-🔥 DΣVΣᄂӨPΣЯ : 𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰
+🔥 DΣVΣᄂӨPΣЯ : Madushan-SHH 🇱🇰
 
 [-] ═───────◇───────═
-
-🧿YOU Tech🧿
 
 </details>
 
@@ -74,7 +71,7 @@ Download
 [<img src="https://telegra.ph/file/2dcbe7f7d4f630a36b460.jpg" width="50%">](https://vimeo.com/654801977)
  
 
-# 📌DARKSSH MANAGER
+# 📌MADUSHAN-SSH MANAGER
 
 * යාවත්කාලීන කිරීම 11/05/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
@@ -95,7 +92,7 @@ Download
  
 * SINHALA
 
-# ❤️Remodied for Sri Lanka ...
+# ❤️Heart for Sri Lanka ...
 
 -------------------------------------------------------------------------------
 
@@ -112,20 +109,16 @@ Download
 
 [@dark_install_bot](https://t.me/@dark_install_bot)
 
-📌DARK-NEW   
+📌MADUSHAN-SSH-NEW   
 
-⭕️ Darkssh➕ ⭕️
+⭕️ MADUSHAN-SSH➕ ⭕️
 
 🦄Auto Script Install Bot
 
 Developer
-By- [𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://t.me/sibatrow) ⁪⁬⁮⁮⁮
+By- [_MADUSHAN-SSH_ 🇱🇰](https://t.me/MadushanMalima) ⁪⁬⁮⁮⁮
 
-[🧿YOU Tech🧿](https://t.me/YouTech_VPN_HUB)
- 
 </details>
-
-[@dark_install_bot](https://t.me/@dark_install_bot)
 
 ```
 sudo -s
@@ -134,7 +127,6 @@ sudo -s
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Madushan-SSH/DARKSSH-MANAGER/master/Dark; chmod 777 Dark; ./Dark
 
 ```
-
 
 # 🔥♨️MaDuShAn-SSH♨️🔥
 
@@ -157,21 +149,21 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Ma
 
 
 
-SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙවලම් සමූහයක් සහිත පිටපතකි
+SCRIPT MADUSHAN-SSH MANAGER යනු සුදුසු අංග සහ මෙවලම් සමූහයක් සහිත පිටපතකි
                  භාවිතය කෙරෙහි අවධානය යොමු කරමින් ලිනක්ස් සේවාදායකයන් හැසිරවීමේ අතිශය පහසුවක් ලබා දෙන්න
                  VPN, යන්ත්රය පිළිබඳ සවිස්තරාත්මක තොරතුරු සපයන ප්රසන්න අතුරු මුහුණතක් ඇත
                  සහ පරිශීලකයින් ...
                  
- SCRIPT DARKSSH MANAGER is a copy with the appropriate set of features and tools
+ SCRIPT MADUSHAN-SSH MANAGER is a copy with the appropriate set of features and tools
                  Focus on usage and make Linux clients extremely easy to handle
                  VPN has a pleasant interface that provides detailed information about the machine               
                  And users ...
                  
                                                           
                    @ Auto genarate                                                                                  @ Banner
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
+<img align="right" src="https://github.com/Madushan-SSH/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
   
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
+![logo](https://github.com/Madushan-SSH/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
          
 **Manager Script**
 
@@ -197,7 +189,7 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 
 # 🏃‍contact me
 
-3. [🔥♨️MaDuShAn-SSH♨️🔥](https://t.me/sibatrow) 
+3. [🔥♨️MaDuShAn-SSH♨️🔥](https://t.me/MadushanMalima) 
 
 ```
 * NO MINING!
@@ -208,7 +200,7 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 ```
 
 ```
-☆ [🔥♨️MaDuShAn-SSH♨️🔥](https://t.me/sibatrow) ☆
+☆ [🔥♨️MaDuShAn-SSH♨️🔥](https://t.me/MadushanMalima) ☆
 ```
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
