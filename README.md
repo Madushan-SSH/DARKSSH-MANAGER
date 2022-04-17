@@ -13,31 +13,7 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Madushan-SSH/DARKSSH-MANAGER)
 
-
-<details>
- 
- 
- <summary><p><b> 👉 Click To View <b>⚡️ 🌀 DarkSSH WEB🌀</b></b></p> <img src="https://telegra.ph/file/9a136ddfd96c130857004.jpg" width="50%"></summary>
-
-
-
-
-
-
-
-
- 
-
- 📖 Installation
-
-💠Ssh
-
-1️⃣ Sing Up 
-2️⃣Sign in
-3️⃣ go [dashboard.you-tech.win/ssh_tu](https://dashboard.you-tech.win/ssh_tu) 
- 
- 
- 🌶 You-Tech API Based Web 
+🌶 You-Tech API Based Web 
 🍪 java, Html, css, Python
 🔥 Fast response
 🤗 Friendly interface
@@ -49,8 +25,8 @@
 
 [-] ═───────◇───────═
 
-📦 Dark-Script 🚀
-🔥 DΣVΣᄂӨPΣЯ : [𝙎𝙞𝙩𝙝𝙪𝙢 𝘽𝙖𝙩𝙧𝙤𝙬 🇱🇰](https://t.me/sibatrow) 
+📦 Madushan-SSH-Script 🚀
+🔥 : [_MADUSHAN-SSH_🇱🇰](https://t.me/sibatrow) 
 
  [-] ═───────◇───────═
 
@@ -60,17 +36,8 @@
  
  </details>
  
-
-
 <details>
  
- 
- <summary><p><b> 👉 Click To View<b> 🌀 Darkssh Paid SSH Crεατσr app 🌀</b></b></p><img src="https://telegra.ph/file/2978def47870c4c016b8f.jpg" width="50%"></summary>
-
-# 🌀 Darkssh Paid SSH Crεατσr app 🌀
- 
-🪤 App For Windows
-
 ⚡️ Programming Language :- C#
 
 [<img src="https://telegra.ph/file/2978def47870c4c016b8f.jpg" width="50%">](https://darkssh.sourceforge.io)
