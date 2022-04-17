@@ -21,22 +21,12 @@
 
 
 
-#⚡️ 🌀 DarkSSH WEB🌀
+
+
+
+
+
  
-[<img src="https://telegra.ph/file/9a136ddfd96c130857004.jpg" width="50%">](https://www.you-tech.win/)
-
-❓Go to your vps and create ssh and manage it,
-
-🖥 Web Script
-
-👇
-[dashboard.you-tech.win](https://dashboard.you-tech.win/)
-
-
- 🖥 Web Terminal+
-
-👇
-[client.you-tech.win](https://client.you-tech.win/)
 
  📖 Installation
 
