@@ -62,15 +62,6 @@ Download
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/DARKSSH-MANAGER)
 
-# Tutorial 
-
-<P>
-<span><a href="https://vimeo.com/654801977"><img src="https://user-images.githubusercontent.com/83800532/144345002-c3ec5251-f723-4a81-bcaa-ad4579562218.png" alt=""width="50"height="50"/></a></span>
-</P>
-
-[<img src="https://telegra.ph/file/2dcbe7f7d4f630a36b460.jpg" width="50%">](https://vimeo.com/654801977)
- 
-
 # 📌MADUSHAN-SSH MANAGER
 
 * යාවත්කාලීන කිරීම 11/05/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
